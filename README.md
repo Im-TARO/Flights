@@ -1,6 +1,7 @@
 # ✈️ Flight Dataset
 
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+[![Tableau](https://img.shields.io/badge/-Tableau-orange?style=flat-square&logo=tableau)](https://public.tableau.com/app/profile/t.robinson6379/vizzes)
 
 ## Project Overview
 
@@ -8,18 +9,6 @@ This project demonstrates how I used SQL to clean and prepare a raw dataset for 
 
 * MySQL 9.4.0
 * Datasets used - Kaggle, [Flights](https://www.kaggle.com/datasets/mmetter/flights/data)
-
-## Questions that be asked and answered with this data
-
-Airline Performance
-
-* Airlines with the most cancellations
-* Busiest airline by flight per month
-
-Airport Performance
-
-* Busiest airports by number of departures
-* Top 10 most frequest routes
 
 ## Repository Content
 
@@ -111,14 +100,24 @@ The goal was to transform messy input data into a reliable dataset ready for rep
 
 ## ER Diagram
 
-![ERD][def]
-
-[def]: flight_relationships.png "ERD"
+![ERD](images/flight_relationships.png)
 
 ## Analysis
 
-1.
+### Questions that be asked and answered with this data
 
----
+Airline Performance (2015) - `SQL/Airline_Performance.sql` `SQL/Airline_Performance_results.csv`
+
+| Airline Performance | SQL Script | Results |
+|------|-----|----|
+| Airlines with the most cancellations | SQL/Airline_Cancelations.sql | SQL/Airline_Cancelations_2015_results.csv|
+| Busiest airline by flight per month |  |  |
+| Average departure delay per airline | | |
 
 ## Data Visualization
+
+[![Tableau](https://img.shields.io/badge/-Tableau-orange?style=flat-square&logo=tableau)](https://public.tableau.com/app/profile/t.robinson6379/vizzes)
+
+![Airline Cancelations](images/Airline_Cancelations.png)
+
+![Airline Busiest](images/Airline_Busiest.png)

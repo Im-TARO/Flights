@@ -1,366 +1,366 @@
-"airport_code","airport_name","airport_city","airport_state"
-"ABE","Lehigh Valley International","Allentown","PA"
-"ABI","Abilene Regional","Abilene","TX"
-"ABQ","Albuquerque International Sunport","Albuquerque","NM"
-"ABR","Aberdeen Regional","Aberdeen","SD"
-"ABY","Southwest Georgia Regional","Albany","GA"
-"ACK","Nantucket Memorial","Nantucket","MA"
-"ACT","Waco Regional","Waco","TX"
-"ACV","Arcata","Arcata","CA"
-"ACY","Atlantic City International","Atlantic City","NJ"
-"ADK","Adak","Adak Island","AK"
-"ADQ","Kodiak Airport","Kodiak","AK"
-"AEX","Alexandria International","Alexandria","LA"
-"AGS","Augusta Regional at Bush Field","Augusta","GA"
-"AKN","King Salmon Airport","King Salmon","AK"
-"ALB","Albany International","Albany","NY"
-"ALO","Waterloo Regional","Waterloo","IA"
-"AMA","Rick Husband Amarillo International","Amarillo","TX"
-"ANC","Ted Stevens Anchorage International","Anchorage","AK"
-"ANI","Aniak Airport","Aniak","AK"
-"APF","Naples Municipal","Naples","FL"
-"APN","Alpena County Regional","Alpena","MI"
-"ART","Watertown International","Watertown","NY"
-"ASE","Aspen Pitkin County Sardy Field","Aspen","CO"
-"ATL","Hartsfield-Jackson Atlanta International","Atlanta","GA"
-"ATW","Appleton International","Appleton","WI"
-"AUS","Austin - Bergstrom International","Austin","TX"
-"AVL","Asheville Regional","Asheville","NC"
-"AVP","Wilkes Barre Scranton International","Scranton","PA"
-"AZA","Phoenix - Mesa Gateway","Phoenix","AZ"
-"AZO","Kalamazoo/Battle Creek International","Kalamazoo","MI"
-"BDL","Bradley International","Hartford","CT"
-"BET","Bethel Airport","Bethel","AK"
-"BFL","Meadows Field","Bakersfield","CA"
-"BGM","Greater Binghamton/Edwin A. Link Field","Binghamton","NY"
-"BGR","Bangor International","Bangor","ME"
-"BHM","Birmingham-Shuttlesworth International","Birmingham","AL"
-"BIL","Billings Logan International","Billings","MT"
-"BIS","Bismarck Municipal","Bismarck","ND"
-"BJI","Bemidji Regional","Bemidji","MN"
-"BKG","Branson Airport","Branson","MO"
-"BLI","Bellingham International","Bellingham","WA"
-"BMI","Central Illinois Regional","Bloomington","IL"
-"BNA","Nashville International","Nashville","TN"
-"BOI","Boise Air Terminal","Boise","ID"
-"BOS","Logan International","Boston","MA"
-"BPT","Jack Brooks Regional","Beaumont","TX"
-"BQK","Brunswick Golden Isles","Brunswick","GA"
-"BQN","Rafael Hernandez","Aguadilla","PR"
-"BRD","Brainerd Lakes Regional","Brainerd","MN"
-"BRO","Brownsville South Padre Island International","Brownsville","TX"
-"BRW","Wiley Post/Will Rogers Memorial","Barrow","AK"
-"BTM","Bert Mooney","Butte","MT"
-"BTR","Baton Rouge Metropolitan/Ryan Field","Baton Rouge","LA"
-"BTV","Burlington International","Burlington","VT"
-"BUF","Buffalo Niagara International","Buffalo","NY"
-"BUR","Bob Hope","Burbank","CA"
-"BWI","Baltimore/Washington International Thurgood Marshall","Baltimore","MD"
-"BZN","Bozeman Yellowstone International","Bozeman","MT"
-"CAE","Columbia Metropolitan","Columbia","SC"
-"CAK","Akron-Canton Regional","Akron","OH"
-"CDC","Cedar City Regional","Cedar City","UT"
-"CDV","Merle K Mudhole Smith","Cordova","AK"
-"CEC","Jack McNamara Field","Crescent City","CA"
-"CHA","Lovell Field","Chattanooga","TN"
-"CHO","Charlottesville Albemarle","Charlottesville","VA"
-"CHS","Charleston AFB/International","Charleston","SC"
-"CIC","Chico Municipal","Chico","CA"
-"CID","The Eastern Iowa","Cedar Rapids","IA"
-"CIU","Chippewa County International","Sault Ste. Marie","MI"
-"CLD","McClellan-Palomar","Carlsbad","CA"
-"CLE","Cleveland-Hopkins International","Cleveland","OH"
-"CLL","Easterwood Field","College Station","TX"
-"CLT","Charlotte Douglas International","Charlotte","NC"
-"CMH","Port Columbus International","Columbus","OH"
-"CMI","University of Illinois/Willard","Champaign","IL"
-"CMX","Houghton County Memorial","Hancock","MI"
-"CNY","Canyonlands Field","Moab","UT"
-"COD","Yellowstone Regional","Cody","WY"
-"COS","City of Colorado Springs Municipal","Colorado Springs","CO"
-"COU","Columbia Regional","Columbia","MO"
-"CPR","Casper/Natrona County International","Casper","WY"
-"CRP","Corpus Christi International","Corpus Christi","TX"
-"CRW","Yeager","Charleston","WV"
-"CSG","Columbus Airport","Columbus","GA"
-"CVG","Cincinnati/Northern Kentucky International","Cincinnati","KY"
-"CWA","Central Wisconsin","Mosinee","WI"
-"CYS","Cheyenne Regional/Jerry Olson Field","Cheyenne","WY"
-"DAB","Daytona Beach International","Daytona Beach","FL"
-"DAL","Dallas Love Field","Dallas","TX"
-"DAY","James M Cox/Dayton International","Dayton","OH"
-"DBQ","Dubuque Regional","Dubuque","IA"
-"DCA","Ronald Reagan Washington National","Washington","VA"
-"DEN","Denver International","Denver","CO"
-"DET","Coleman A. Young Municipal","Detroit","MI"
-"DFW","Dallas/Fort Worth International","Dallas","TX"
-"DHN","Dothan Regional","Dothan","AL"
-"DIK","Dickinson - Theodore Roosevelt Regional","Dickinson","ND"
-"DLG","Dillingham Airport","Dillingham","AK"
-"DLH","Duluth International","Duluth","MN"
-"DRO","Durango La Plata County","Durango","CO"
-"DRT","Del Rio International","Del Rio","TX"
-"DSM","Des Moines International","Des Moines","IA"
-"DTW","Detroit Metro Wayne County","Detroit","MI"
-"DUT","Unalaska Airport","Unalaska","AK"
-"DVL","Devils Lake Regional","Devils Lake","ND"
-"EAU","Chippewa Valley Regional","Eau Claire","WI"
-"ECP","Northwest Florida Beaches International","Panama City","FL"
-"EFD","Ellington","Houston","TX"
-"EGE","Eagle County Regional","Eagle","CO"
-"EKO","Elko Regional","Elko","NV"
-"ELM","Elmira/Corning Regional","Elmira","NY"
-"ELP","El Paso International","El Paso","TX"
-"ERI","Erie International/Tom Ridge Field","Erie","PA"
-"ESC","Delta County","Escanaba","MI"
-"EUG","Mahlon Sweet Field","Eugene","OR"
-"EVV","Evansville Regional","Evansville","IN"
-"EWN","Coastal Carolina Regional","New Bern","NC"
-"EWR","Newark Liberty International","Newark","NJ"
-"EYW","Key West International","Key West","FL"
-"FAI","Fairbanks International","Fairbanks","AK"
-"FAR","Hector International","Fargo","ND"
-"FAT","Fresno Yosemite International","Fresno","CA"
-"FAY","Fayetteville Regional/Grannis Field","Fayetteville","NC"
-"FCA","Glacier Park International","Kalispell","MT"
-"FLG","Flagstaff Pulliam","Flagstaff","AZ"
-"FLL","Fort Lauderdale-Hollywood International","Fort Lauderdale","FL"
-"FLO","Florence Regional","Florence","SC"
-"FNT","Bishop International","Flint","MI"
-"FOE","Forbes Field","Topeka","KS"
-"FSD","Joe Foss Field","Sioux Falls","SD"
-"FSM","Fort Smith Regional","Fort Smith","AR"
-"FWA","Fort Wayne International","Fort Wayne","IN"
-"GCC","Gillette Campbell County","Gillette","WY"
-"GCK","Garden City Regional","Garden City","KS"
-"GEG","Spokane International","Spokane","WA"
-"GFK","Grand Forks International","Grand Forks","ND"
-"GGG","East Texas Regional","Longview","TX"
-"GJT","Grand Junction Regional","Grand Junction","CO"
-"GNV","Gainesville Regional","Gainesville","FL"
-"GPT","Gulfport-Biloxi International","Gulfport","MS"
-"GRB","Austin Straubel International","Green Bay","WI"
-"GRI","Central Nebraska Regional","Grand Island","NE"
-"GRK","Robert Gray AAF","Killeen","TX"
-"GRR","Gerald R. Ford International","Grand Rapids","MI"
-"GSO","Piedmont Triad International","Greensboro","NC"
-"GSP","Greenville-Spartanburg International","Greer","SC"
-"GST","Gustavus Airport","Gustavus","AK"
-"GTF","Great Falls International","Great Falls","MT"
-"GTR","Golden Triangle Regional","Columbus","MS"
-"GUC","Gunnison-Crested Butte Regional","Gunnison","CO"
-"GUM","Guam International","Guam","TT"
-"HDN","Yampa Valley","Hayden","CO"
-"HIB","Range Regional","Hibbing","MN"
-"HLN","Helena Regional","Helena","MT"
-"HNL","Honolulu International","Honolulu","HI"
-"HOB","Lea County Regional","Hobbs","NM"
-"HOU","William P Hobby","Houston","TX"
-"HPN","Westchester County","White Plains","NY"
-"HRL","Valley International","Harlingen","TX"
-"HSV","Huntsville International-Carl T Jones Field","Huntsville","AL"
-"HTS","Tri-State/Milton J. Ferguson Field","Ashland","WV"
-"HVN","Tweed New Haven","New Haven","CT"
-"HYA","Barnstable Municipal-Boardman/Polando Field","Hyannis","MA"
-"HYS","Hays Regional","Hays","KS"
-"IAD","Washington Dulles International","Washington","VA"
-"IAG","Niagara Falls International","Niagara Falls","NY"
-"IAH","George Bush Intercontinental/Houston","Houston","TX"
-"ICT","Wichita Dwight D Eisenhower National","Wichita","KS"
-"IDA","Idaho Falls Regional","Idaho Falls","ID"
-"ILE","Skylark Field","Killeen","TX"
-"ILG","New Castle","Wilmington","DE"
-"ILM","Wilmington International","Wilmington","NC"
-"IMT","Ford","Iron Mountain","MI"
-"IND","Indianapolis International","Indianapolis","IN"
-"INL","Falls International Einarson Field","International Falls","MN"
-"IPL","Imperial County","El Centro","CA"
-"ISN","Sloulin Field International","Williston","ND"
-"ISO","Kinston Regional Jetport at Stallings Field","Kinston","NC"
-"ISP","Long Island MacArthur","Islip","NY"
-"ITH","Ithaca Tompkins Regional","Ithaca","NY"
-"ITO","Hilo International","Hilo","HI"
-"IYK","Inyokern Airport","Inyokern","CA"
-"JAC","Jackson Hole","Jackson","WY"
-"JAN","Jackson Medgar Wiley Evers International","Jackson","MS"
-"JAX","Jacksonville International","Jacksonville","FL"
-"JFK","John F. Kennedy International","New York","NY"
-"JLN","Joplin Regional","Joplin","MO"
-"JMS","Jamestown Regional","Jamestown","ND"
-"JNU","Juneau International","Juneau","AK"
-"KOA","Kona International Airport at Keahole","Kona","HI"
-"KSM","St. Mary's Airport","St. Mary's","AK"
-"KTN","Ketchikan International","Ketchikan","AK"
-"LAN","Capital Region International","Lansing","MI"
-"LAR","Laramie Regional","Laramie","WY"
-"LAS","McCarran International","Las Vegas","NV"
-"LAW","Lawton-Fort Sill Regional","Lawton","OK"
-"LAX","Los Angeles International","Los Angeles","CA"
-"LBB","Lubbock Preston Smith International","Lubbock","TX"
-"LBE","Arnold Palmer Regional","Latrobe","PA"
-"LCH","Lake Charles Regional","Lake Charles","LA"
-"LEX","Blue Grass","Lexington","KY"
-"LFT","Lafayette Regional Paul Fournet Field","Lafayette","LA"
-"LGA","LaGuardia","New York","NY"
-"LGB","Long Beach Airport","Long Beach","CA"
-"LIH","Lihue Airport","Lihue","HI"
-"LIT","Bill and Hillary Clinton Nat Adams Field","Little Rock","AR"
-"LMT","Klamath Falls Airport","Klamath Falls","OR"
-"LNK","Lincoln Airport","Lincoln","NE"
-"LNY","Lanai Airport","Lanai","HI"
-"LRD","Laredo International","Laredo","TX"
-"LSE","La Crosse Regional","La Crosse","WI"
-"LWB","Greenbrier Valley","Lewisburg","WV"
-"LWS","Lewiston Nez Perce County","Lewiston","ID"
-"LYH","Lynchburg Regional/Preston Glenn Field","Lynchburg","VA"
-"MAF","Midland International","Midland","TX"
-"MAZ","Eugenio Maria de Hostos","Mayaguez","PR"
-"MBS","MBS International","Saginaw","MI"
-"MCI","Kansas City International","Kansas City","MO"
-"MCN","Middle Georgia Regional","Macon","GA"
-"MCO","Orlando International","Orlando","FL"
-"MDT","Harrisburg International","Harrisburg","PA"
-"MDW","Chicago Midway International","Chicago","IL"
-"MEI","Key Field","Meridian","MS"
-"MEM","Memphis International","Memphis","TN"
-"MFE","McAllen Miller International","Mission","TX"
-"MFR","Rogue Valley International - Medford","Medford","OR"
-"MGM","Montgomery Regional","Montgomery","AL"
-"MHK","Manhattan Regional","Manhattan","KS"
-"MHT","Manchester-Boston Regional","Manchester","NH"
-"MIA","Miami International","Miami","FL"
-"MIB","Minot AFB","Minot","ND"
-"MKE","General Mitchell International","Milwaukee","WI"
-"MKG","Muskegon County","Muskegon","MI"
-"MKK","Molokai","Hoolehua","HI"
-"MLB","Melbourne International","Melbourne","FL"
-"MLI","Quad City International","Moline","IL"
-"MLU","Monroe Regional","Monroe","LA"
-"MMH","Mammoth Lakes Airport","Mammoth Lakes","CA"
-"MOB","Mobile Regional","Mobile","AL"
-"MOD","Modesto City-County-Harry Sham Field","Modesto","CA"
-"MOT","Minot International","Minot","ND"
-"MQT","Sawyer International","Marquette","MI"
-"MRY","Monterey Regional","Monterey","CA"
-"MSN","Dane County Regional-Truax Field","Madison","WI"
-"MSO","Missoula International","Missoula","MT"
-"MSP","Minneapolis-St Paul International","Minneapolis","MN"
-"MSY","Louis Armstrong New Orleans International","New Orleans","LA"
-"MTJ","Montrose Regional","Montrose","CO"
-"MVY","Martha's Vineyard Airport","Martha's Vineyard","MA"
-"MWH","Grant County International","Moses Lake","WA"
-"MYR","Myrtle Beach International","Myrtle Beach","SC"
-"OAJ","Albert J Ellis","Jacksonville","NC"
-"OAK","Metropolitan Oakland International","Oakland","CA"
-"OGG","Kahului Airport","Kahului","HI"
-"OKC","Will Rogers World","Oklahoma City","OK"
-"OMA","Eppley Airfield","Omaha","NE"
-"OME","Nome Airport","Nome","AK"
-"ONT","Ontario International","Ontario","CA"
-"ORD","Chicago O'Hare International","Chicago","IL"
-"ORF","Norfolk International","Norfolk","VA"
-"ORH","Worcester Regional","Worcester","MA"
-"OTH","Southwest Oregon Regional","North Bend","OR"
-"OTZ","Ralph Wien Memorial","Kotzebue","AK"
-"OXR","Oxnard","Oxnard","CA"
-"PAH","Barkley Regional","Paducah","KY"
-"PBG","Plattsburgh International","Plattsburgh","NY"
-"PBI","Palm Beach International","West Palm Beach","FL"
-"PDX","Portland International","Portland","OR"
-"PFN","Bay County","Panama City","FL"
-"PHF","Newport News/Williamsburg International","Newport News","VA"
-"PHL","Philadelphia International","Philadelphia","PA"
-"PHX","Phoenix Sky Harbor International","Phoenix","AZ"
-"PIA","General Downing - Peoria International","Peoria","IL"
-"PIB","Hattiesburg-Laurel Regional","Hattiesburg","MS"
-"PIE","St Pete Clearwater International","St. Petersburg","FL"
-"PIH","Pocatello Regional","Pocatello","ID"
-"PIT","Pittsburgh International","Pittsburgh","PA"
-"PLN","Pellston Regional Airport of Emmet County","Pellston","MI"
-"PNS","Pensacola International","Pensacola","FL"
-"PPG","Pago Pago International","Pago Pago","TT"
-"PSC","Tri Cities","Pasco","WA"
-"PSE","Mercedita","Ponce","PR"
-"PSG","Petersburg James A Johnson","Petersburg","AK"
-"PSP","Palm Springs International","Palm Springs","CA"
-"PUB","Pueblo Memorial","Pueblo","CO"
-"PVD","Theodore Francis Green State","Providence","RI"
-"PWM","Portland International Jetport","Portland","ME"
-"RAP","Rapid City Regional","Rapid City","SD"
-"RDD","Redding Municipal","Redding","CA"
-"RDM","Roberts Field","Bend","OR"
-"RDU","Raleigh-Durham International","Raleigh","NC"
-"RFD","Chicago/Rockford International","Rockford","IL"
-"RHI","Rhinelander/Oneida County","Rhinelander","WI"
-"RIC","Richmond International","Richmond","VA"
-"RKS","Rock Springs Sweetwater County","Rock Springs","WY"
-"RNO","Reno/Tahoe International","Reno","NV"
-"ROA","Roanoke Blacksburg Regional Woodrum Field","Roanoke","VA"
-"ROC","Greater Rochester International","Rochester","NY"
-"ROP","Benjamin Taisacan Manglona International","Rota","TT"
-"ROR","Babelthuap","Koror","TT"
-"ROW","Roswell International Air Center","Roswell","NM"
-"RST","Rochester International","Rochester","MN"
-"RSW","Southwest Florida International","Fort Myers","FL"
-"SAF","Santa Fe Municipal","Santa Fe","NM"
-"SAN","San Diego International","San Diego","CA"
-"SAT","San Antonio International","San Antonio","TX"
-"SAV","Savannah/Hilton Head International","Savannah","GA"
-"SBA","Santa Barbara Municipal","Santa Barbara","CA"
-"SBN","South Bend International","South Bend","IN"
-"SBP","San Luis County Regional","San Luis Obispo","CA"
-"SCC","Deadhorse Airport","Deadhorse","AK"
-"SCE","University Park","State College","PA"
-"SDF","Louisville International-Standiford Field","Louisville","KY"
-"SEA","Seattle/Tacoma International","Seattle","WA"
-"SFO","San Francisco International","San Francisco","CA"
-"SGF","Springfield-Branson National","Springfield","MO"
-"SGU","St George Regional","St. George","UT"
-"SHD","Shenandoah Valley Regional","Staunton","VA"
-"SHV","Shreveport Regional","Shreveport","LA"
-"SIT","Sitka Rocky Gutierrez","Sitka","AK"
-"SJC","Norman Y. Mineta San Jose International","San Jose","CA"
-"SJT","San Angelo Regional/Mathis Field","San Angelo","TX"
-"SJU","Luis Munoz Marin International","San Juan","PR"
-"SLC","Salt Lake City International","Salt Lake City","UT"
-"SMF","Sacramento International","Sacramento","CA"
-"SMX","Santa Maria Public/Capt. G. Allan Hancock Field","Santa Maria","CA"
-"SNA","John Wayne Airport-Orange County","Santa Ana","CA"
-"SPI","Abraham Lincoln Capital","Springfield","IL"
-"SPN","Francisco C. Ada Saipan International","Saipan","TT"
-"SPS","Sheppard AFB/Wichita Falls Municipal","Wichita Falls","TX"
-"SRQ","Sarasota/Bradenton International","Sarasota","FL"
-"STC","St. Cloud Regional","St. Cloud","MN"
-"STL","Lambert-St. Louis International","St. Louis","MO"
-"STT","Cyril E King","Charlotte Amalie","VI"
-"STX","Henry E. Rohlsen","Christiansted","VI"
-"SUN","Friedman Memorial","Sun Valley","ID"
-"SUX","Sioux Gateway/Col. Bud Day Field","Sioux City","IA"
-"SWF","Stewart International","Newburgh","NY"
-"SYR","Syracuse Hancock International","Syracuse","NY"
-"TEX","Telluride Regional","Telluride","CO"
-"TLH","Tallahassee International","Tallahassee","FL"
-"TOL","Toledo Express","Toledo","OH"
-"TPA","Tampa International","Tampa","FL"
-"TRI","Tri-Cities Regional TN/VA","Bristol","TN"
-"TTN","Trenton Mercer","Trenton","NJ"
-"TUL","Tulsa International","Tulsa","OK"
-"TUS","Tucson International","Tucson","AZ"
-"TVC","Cherry Capital","Traverse City","MI"
-"TWF","Joslin Field - Magic Valley Regional","Twin Falls","ID"
-"TXK","Texarkana Regional-Webb Field","Texarkana","AR"
-"TYR","Tyler Pounds Regional","Tyler","TX"
-"TYS","McGhee Tyson","Knoxville","TN"
-"UCA","Oneida County","Utica","NY"
-"UST","Northeast Florida Regional","St. Augustine","FL"
-"UTM","Tunica Municipal","Tunica","MS"
-"VCT","Victoria Regional","Victoria","TX"
-"VEL","Vernal Regional","Vernal","UT"
-"VIS","Visalia Municipal","Visalia","CA"
-"VLD","Valdosta Regional","Valdosta","GA"
-"VPS","Eglin AFB Destin Fort Walton Beach","Valparaiso","FL"
-"WRG","Wrangell Airport","Wrangell","AK"
-"WYS","Yellowstone","West Yellowstone","MT"
-"XNA","Northwest Arkansas Regional","Fayetteville","AR"
-"YAK","Yakutat Airport","Yakutat","AK"
-"YUM","Yuma MCAS/Yuma International","Yuma","AZ"
+airport_code,airport_name,airport_city,airport_state
+ABE,Lehigh Valley International,Allentown,PA
+ABI,Abilene Regional,Abilene,TX
+ABQ,Albuquerque International Sunport,Albuquerque,NM
+ABR,Aberdeen Regional,Aberdeen,SD
+ABY,Southwest Georgia Regional,Albany,GA
+ACK,Nantucket Memorial,Nantucket,MA
+ACT,Waco Regional,Waco,TX
+ACV,Arcata,Arcata,CA
+ACY,Atlantic City International,Atlantic City,NJ
+ADK,Adak,Adak Island,AK
+ADQ,Kodiak Airport,Kodiak,AK
+AEX,Alexandria International,Alexandria,LA
+AGS,Augusta Regional at Bush Field,Augusta,GA
+AKN,King Salmon Airport,King Salmon,AK
+ALB,Albany International,Albany,NY
+ALO,Waterloo Regional,Waterloo,IA
+AMA,Rick Husband Amarillo International,Amarillo,TX
+ANC,Ted Stevens Anchorage International,Anchorage,AK
+ANI,Aniak Airport,Aniak,AK
+APF,Naples Municipal,Naples,FL
+APN,Alpena County Regional,Alpena,MI
+ART,Watertown International,Watertown,NY
+ASE,Aspen Pitkin County Sardy Field,Aspen,CO
+ATL,Hartsfield-Jackson Atlanta International,Atlanta,GA
+ATW,Appleton International,Appleton,WI
+AUS,Austin - Bergstrom International,Austin,TX
+AVL,Asheville Regional,Asheville,NC
+AVP,Wilkes Barre Scranton International,Scranton,PA
+AZA,Phoenix - Mesa Gateway,Phoenix,AZ
+AZO,Kalamazoo/Battle Creek International,Kalamazoo,MI
+BDL,Bradley International,Hartford,CT
+BET,Bethel Airport,Bethel,AK
+BFL,Meadows Field,Bakersfield,CA
+BGM,Greater Binghamton/Edwin A. Link Field,Binghamton,NY
+BGR,Bangor International,Bangor,ME
+BHM,Birmingham-Shuttlesworth International,Birmingham,AL
+BIL,Billings Logan International,Billings,MT
+BIS,Bismarck Municipal,Bismarck,ND
+BJI,Bemidji Regional,Bemidji,MN
+BKG,Branson Airport,Branson,MO
+BLI,Bellingham International,Bellingham,WA
+BMI,Central Illinois Regional,Bloomington,IL
+BNA,Nashville International,Nashville,TN
+BOI,Boise Air Terminal,Boise,ID
+BOS,Logan International,Boston,MA
+BPT,Jack Brooks Regional,Beaumont,TX
+BQK,Brunswick Golden Isles,Brunswick,GA
+BQN,Rafael Hernandez,Aguadilla,PR
+BRD,Brainerd Lakes Regional,Brainerd,MN
+BRO,Brownsville South Padre Island International,Brownsville,TX
+BRW,Wiley Post/Will Rogers Memorial,Barrow,AK
+BTM,Bert Mooney,Butte,MT
+BTR,Baton Rouge Metropolitan/Ryan Field,Baton Rouge,LA
+BTV,Burlington International,Burlington,VT
+BUF,Buffalo Niagara International,Buffalo,NY
+BUR,Bob Hope,Burbank,CA
+BWI,Baltimore/Washington International Thurgood Marshall,Baltimore,MD
+BZN,Bozeman Yellowstone International,Bozeman,MT
+CAE,Columbia Metropolitan,Columbia,SC
+CAK,Akron-Canton Regional,Akron,OH
+CDC,Cedar City Regional,Cedar City,UT
+CDV,Merle K Mudhole Smith,Cordova,AK
+CEC,Jack McNamara Field,Crescent City,CA
+CHA,Lovell Field,Chattanooga,TN
+CHO,Charlottesville Albemarle,Charlottesville,VA
+CHS,Charleston AFB/International,Charleston,SC
+CIC,Chico Municipal,Chico,CA
+CID,The Eastern Iowa,Cedar Rapids,IA
+CIU,Chippewa County International,Sault Ste. Marie,MI
+CLD,McClellan-Palomar,Carlsbad,CA
+CLE,Cleveland-Hopkins International,Cleveland,OH
+CLL,Easterwood Field,College Station,TX
+CLT,Charlotte Douglas International,Charlotte,NC
+CMH,Port Columbus International,Columbus,OH
+CMI,University of Illinois/Willard,Champaign,IL
+CMX,Houghton County Memorial,Hancock,MI
+CNY,Canyonlands Field,Moab,UT
+COD,Yellowstone Regional,Cody,WY
+COS,City of Colorado Springs Municipal,Colorado Springs,CO
+COU,Columbia Regional,Columbia,MO
+CPR,Casper/Natrona County International,Casper,WY
+CRP,Corpus Christi International,Corpus Christi,TX
+CRW,Yeager,Charleston,WV
+CSG,Columbus Airport,Columbus,GA
+CVG,Cincinnati/Northern Kentucky International,Cincinnati,KY
+CWA,Central Wisconsin,Mosinee,WI
+CYS,Cheyenne Regional/Jerry Olson Field,Cheyenne,WY
+DAB,Daytona Beach International,Daytona Beach,FL
+DAL,Dallas Love Field,Dallas,TX
+DAY,James M Cox/Dayton International,Dayton,OH
+DBQ,Dubuque Regional,Dubuque,IA
+DCA,Ronald Reagan Washington National,Washington,VA
+DEN,Denver International,Denver,CO
+DET,Coleman A. Young Municipal,Detroit,MI
+DFW,Dallas/Fort Worth International,Dallas,TX
+DHN,Dothan Regional,Dothan,AL
+DIK,Dickinson - Theodore Roosevelt Regional,Dickinson,ND
+DLG,Dillingham Airport,Dillingham,AK
+DLH,Duluth International,Duluth,MN
+DRO,Durango La Plata County,Durango,CO
+DRT,Del Rio International,Del Rio,TX
+DSM,Des Moines International,Des Moines,IA
+DTW,Detroit Metro Wayne County,Detroit,MI
+DUT,Unalaska Airport,Unalaska,AK
+DVL,Devils Lake Regional,Devils Lake,ND
+EAU,Chippewa Valley Regional,Eau Claire,WI
+ECP,Northwest Florida Beaches International,Panama City,FL
+EFD,Ellington,Houston,TX
+EGE,Eagle County Regional,Eagle,CO
+EKO,Elko Regional,Elko,NV
+ELM,Elmira/Corning Regional,Elmira,NY
+ELP,El Paso International,El Paso,TX
+ERI,Erie International/Tom Ridge Field,Erie,PA
+ESC,Delta County,Escanaba,MI
+EUG,Mahlon Sweet Field,Eugene,OR
+EVV,Evansville Regional,Evansville,IN
+EWN,Coastal Carolina Regional,New Bern,NC
+EWR,Newark Liberty International,Newark,NJ
+EYW,Key West International,Key West,FL
+FAI,Fairbanks International,Fairbanks,AK
+FAR,Hector International,Fargo,ND
+FAT,Fresno Yosemite International,Fresno,CA
+FAY,Fayetteville Regional/Grannis Field,Fayetteville,NC
+FCA,Glacier Park International,Kalispell,MT
+FLG,Flagstaff Pulliam,Flagstaff,AZ
+FLL,Fort Lauderdale-Hollywood International,Fort Lauderdale,FL
+FLO,Florence Regional,Florence,SC
+FNT,Bishop International,Flint,MI
+FOE,Forbes Field,Topeka,KS
+FSD,Joe Foss Field,Sioux Falls,SD
+FSM,Fort Smith Regional,Fort Smith,AR
+FWA,Fort Wayne International,Fort Wayne,IN
+GCC,Gillette Campbell County,Gillette,WY
+GCK,Garden City Regional,Garden City,KS
+GEG,Spokane International,Spokane,WA
+GFK,Grand Forks International,Grand Forks,ND
+GGG,East Texas Regional,Longview,TX
+GJT,Grand Junction Regional,Grand Junction,CO
+GNV,Gainesville Regional,Gainesville,FL
+GPT,Gulfport-Biloxi International,Gulfport,MS
+GRB,Austin Straubel International,Green Bay,WI
+GRI,Central Nebraska Regional,Grand Island,NE
+GRK,Robert Gray AAF,Killeen,TX
+GRR,Gerald R. Ford International,Grand Rapids,MI
+GSO,Piedmont Triad International,Greensboro,NC
+GSP,Greenville-Spartanburg International,Greer,SC
+GST,Gustavus Airport,Gustavus,AK
+GTF,Great Falls International,Great Falls,MT
+GTR,Golden Triangle Regional,Columbus,MS
+GUC,Gunnison-Crested Butte Regional,Gunnison,CO
+GUM,Guam International,Guam,TT
+HDN,Yampa Valley,Hayden,CO
+HIB,Range Regional,Hibbing,MN
+HLN,Helena Regional,Helena,MT
+HNL,Honolulu International,Honolulu,HI
+HOB,Lea County Regional,Hobbs,NM
+HOU,William P Hobby,Houston,TX
+HPN,Westchester County,White Plains,NY
+HRL,Valley International,Harlingen,TX
+HSV,Huntsville International-Carl T Jones Field,Huntsville,AL
+HTS,Tri-State/Milton J. Ferguson Field,Ashland,WV
+HVN,Tweed New Haven,New Haven,CT
+HYA,Barnstable Municipal-Boardman/Polando Field,Hyannis,MA
+HYS,Hays Regional,Hays,KS
+IAD,Washington Dulles International,Washington,VA
+IAG,Niagara Falls International,Niagara Falls,NY
+IAH,George Bush Intercontinental/Houston,Houston,TX
+ICT,Wichita Dwight D Eisenhower National,Wichita,KS
+IDA,Idaho Falls Regional,Idaho Falls,ID
+ILE,Skylark Field,Killeen,TX
+ILG,New Castle,Wilmington,DE
+ILM,Wilmington International,Wilmington,NC
+IMT,Ford,Iron Mountain,MI
+IND,Indianapolis International,Indianapolis,IN
+INL,Falls International Einarson Field,International Falls,MN
+IPL,Imperial County,El Centro,CA
+ISN,Sloulin Field International,Williston,ND
+ISO,Kinston Regional Jetport at Stallings Field,Kinston,NC
+ISP,Long Island MacArthur,Islip,NY
+ITH,Ithaca Tompkins Regional,Ithaca,NY
+ITO,Hilo International,Hilo,HI
+IYK,Inyokern Airport,Inyokern,CA
+JAC,Jackson Hole,Jackson,WY
+JAN,Jackson Medgar Wiley Evers International,Jackson,MS
+JAX,Jacksonville International,Jacksonville,FL
+JFK,John F. Kennedy International,New York,NY
+JLN,Joplin Regional,Joplin,MO
+JMS,Jamestown Regional,Jamestown,ND
+JNU,Juneau International,Juneau,AK
+KOA,Kona International Airport at Keahole,Kona,HI
+KSM,St. Mary's Airport,St. Mary's,AK
+KTN,Ketchikan International,Ketchikan,AK
+LAN,Capital Region International,Lansing,MI
+LAR,Laramie Regional,Laramie,WY
+LAS,McCarran International,Las Vegas,NV
+LAW,Lawton-Fort Sill Regional,Lawton,OK
+LAX,Los Angeles International,Los Angeles,CA
+LBB,Lubbock Preston Smith International,Lubbock,TX
+LBE,Arnold Palmer Regional,Latrobe,PA
+LCH,Lake Charles Regional,Lake Charles,LA
+LEX,Blue Grass,Lexington,KY
+LFT,Lafayette Regional Paul Fournet Field,Lafayette,LA
+LGA,LaGuardia,New York,NY
+LGB,Long Beach Airport,Long Beach,CA
+LIH,Lihue Airport,Lihue,HI
+LIT,Bill and Hillary Clinton Nat Adams Field,Little Rock,AR
+LMT,Klamath Falls Airport,Klamath Falls,OR
+LNK,Lincoln Airport,Lincoln,NE
+LNY,Lanai Airport,Lanai,HI
+LRD,Laredo International,Laredo,TX
+LSE,La Crosse Regional,La Crosse,WI
+LWB,Greenbrier Valley,Lewisburg,WV
+LWS,Lewiston Nez Perce County,Lewiston,ID
+LYH,Lynchburg Regional/Preston Glenn Field,Lynchburg,VA
+MAF,Midland International,Midland,TX
+MAZ,Eugenio Maria de Hostos,Mayaguez,PR
+MBS,MBS International,Saginaw,MI
+MCI,Kansas City International,Kansas City,MO
+MCN,Middle Georgia Regional,Macon,GA
+MCO,Orlando International,Orlando,FL
+MDT,Harrisburg International,Harrisburg,PA
+MDW,Chicago Midway International,Chicago,IL
+MEI,Key Field,Meridian,MS
+MEM,Memphis International,Memphis,TN
+MFE,McAllen Miller International,Mission,TX
+MFR,Rogue Valley International - Medford,Medford,OR
+MGM,Montgomery Regional,Montgomery,AL
+MHK,Manhattan Regional,Manhattan,KS
+MHT,Manchester-Boston Regional,Manchester,NH
+MIA,Miami International,Miami,FL
+MIB,Minot AFB,Minot,ND
+MKE,General Mitchell International,Milwaukee,WI
+MKG,Muskegon County,Muskegon,MI
+MKK,Molokai,Hoolehua,HI
+MLB,Melbourne International,Melbourne,FL
+MLI,Quad City International,Moline,IL
+MLU,Monroe Regional,Monroe,LA
+MMH,Mammoth Lakes Airport,Mammoth Lakes,CA
+MOB,Mobile Regional,Mobile,AL
+MOD,Modesto City-County-Harry Sham Field,Modesto,CA
+MOT,Minot International,Minot,ND
+MQT,Sawyer International,Marquette,MI
+MRY,Monterey Regional,Monterey,CA
+MSN,Dane County Regional-Truax Field,Madison,WI
+MSO,Missoula International,Missoula,MT
+MSP,Minneapolis-St Paul International,Minneapolis,MN
+MSY,Louis Armstrong New Orleans International,New Orleans,LA
+MTJ,Montrose Regional,Montrose,CO
+MVY,Martha's Vineyard Airport,Martha's Vineyard,MA
+MWH,Grant County International,Moses Lake,WA
+MYR,Myrtle Beach International,Myrtle Beach,SC
+OAJ,Albert J Ellis,Jacksonville,NC
+OAK,Metropolitan Oakland International,Oakland,CA
+OGG,Kahului Airport,Kahului,HI
+OKC,Will Rogers World,Oklahoma City,OK
+OMA,Eppley Airfield,Omaha,NE
+OME,Nome Airport,Nome,AK
+ONT,Ontario International,Ontario,CA
+ORD,Chicago O'Hare International,Chicago,IL
+ORF,Norfolk International,Norfolk,VA
+ORH,Worcester Regional,Worcester,MA
+OTH,Southwest Oregon Regional,North Bend,OR
+OTZ,Ralph Wien Memorial,Kotzebue,AK
+OXR,Oxnard,Oxnard,CA
+PAH,Barkley Regional,Paducah,KY
+PBG,Plattsburgh International,Plattsburgh,NY
+PBI,Palm Beach International,West Palm Beach,FL
+PDX,Portland International,Portland,OR
+PFN,Bay County,Panama City,FL
+PHF,Newport News/Williamsburg International,Newport News,VA
+PHL,Philadelphia International,Philadelphia,PA
+PHX,Phoenix Sky Harbor International,Phoenix,AZ
+PIA,General Downing - Peoria International,Peoria,IL
+PIB,Hattiesburg-Laurel Regional,Hattiesburg,MS
+PIE,St Pete Clearwater International,St. Petersburg,FL
+PIH,Pocatello Regional,Pocatello,ID
+PIT,Pittsburgh International,Pittsburgh,PA
+PLN,Pellston Regional Airport of Emmet County,Pellston,MI
+PNS,Pensacola International,Pensacola,FL
+PPG,Pago Pago International,Pago Pago,TT
+PSC,Tri Cities,Pasco,WA
+PSE,Mercedita,Ponce,PR
+PSG,Petersburg James A Johnson,Petersburg,AK
+PSP,Palm Springs International,Palm Springs,CA
+PUB,Pueblo Memorial,Pueblo,CO
+PVD,Theodore Francis Green State,Providence,RI
+PWM,Portland International Jetport,Portland,ME
+RAP,Rapid City Regional,Rapid City,SD
+RDD,Redding Municipal,Redding,CA
+RDM,Roberts Field,Bend,OR
+RDU,Raleigh-Durham International,Raleigh,NC
+RFD,Chicago/Rockford International,Rockford,IL
+RHI,Rhinelander/Oneida County,Rhinelander,WI
+RIC,Richmond International,Richmond,VA
+RKS,Rock Springs Sweetwater County,Rock Springs,WY
+RNO,Reno/Tahoe International,Reno,NV
+ROA,Roanoke Blacksburg Regional Woodrum Field,Roanoke,VA
+ROC,Greater Rochester International,Rochester,NY
+ROP,Benjamin Taisacan Manglona International,Rota,TT
+ROR,Babelthuap,Koror,TT
+ROW,Roswell International Air Center,Roswell,NM
+RST,Rochester International,Rochester,MN
+RSW,Southwest Florida International,Fort Myers,FL
+SAF,Santa Fe Municipal,Santa Fe,NM
+SAN,San Diego International,San Diego,CA
+SAT,San Antonio International,San Antonio,TX
+SAV,Savannah/Hilton Head International,Savannah,GA
+SBA,Santa Barbara Municipal,Santa Barbara,CA
+SBN,South Bend International,South Bend,IN
+SBP,San Luis County Regional,San Luis Obispo,CA
+SCC,Deadhorse Airport,Deadhorse,AK
+SCE,University Park,State College,PA
+SDF,Louisville International-Standiford Field,Louisville,KY
+SEA,Seattle/Tacoma International,Seattle,WA
+SFO,San Francisco International,San Francisco,CA
+SGF,Springfield-Branson National,Springfield,MO
+SGU,St George Regional,St. George,UT
+SHD,Shenandoah Valley Regional,Staunton,VA
+SHV,Shreveport Regional,Shreveport,LA
+SIT,Sitka Rocky Gutierrez,Sitka,AK
+SJC,Norman Y. Mineta San Jose International,San Jose,CA
+SJT,San Angelo Regional/Mathis Field,San Angelo,TX
+SJU,Luis Munoz Marin International,San Juan,PR
+SLC,Salt Lake City International,Salt Lake City,UT
+SMF,Sacramento International,Sacramento,CA
+SMX,Santa Maria Public/Capt. G. Allan Hancock Field,Santa Maria,CA
+SNA,John Wayne Airport-Orange County,Santa Ana,CA
+SPI,Abraham Lincoln Capital,Springfield,IL
+SPN,Francisco C. Ada Saipan International,Saipan,TT
+SPS,Sheppard AFB/Wichita Falls Municipal,Wichita Falls,TX
+SRQ,Sarasota/Bradenton International,Sarasota,FL
+STC,St. Cloud Regional,St. Cloud,MN
+STL,Lambert-St. Louis International,St. Louis,MO
+STT,Cyril E King,Charlotte Amalie,VI
+STX,Henry E. Rohlsen,Christiansted,VI
+SUN,Friedman Memorial,Sun Valley,ID
+SUX,Sioux Gateway/Col. Bud Day Field,Sioux City,IA
+SWF,Stewart International,Newburgh,NY
+SYR,Syracuse Hancock International,Syracuse,NY
+TEX,Telluride Regional,Telluride,CO
+TLH,Tallahassee International,Tallahassee,FL
+TOL,Toledo Express,Toledo,OH
+TPA,Tampa International,Tampa,FL
+TRI,Tri-Cities Regional TN/VA,Bristol,TN
+TTN,Trenton Mercer,Trenton,NJ
+TUL,Tulsa International,Tulsa,OK
+TUS,Tucson International,Tucson,AZ
+TVC,Cherry Capital,Traverse City,MI
+TWF,Joslin Field - Magic Valley Regional,Twin Falls,ID
+TXK,Texarkana Regional-Webb Field,Texarkana,AR
+TYR,Tyler Pounds Regional,Tyler,TX
+TYS,McGhee Tyson,Knoxville,TN
+UCA,Oneida County,Utica,NY
+UST,Northeast Florida Regional,St. Augustine,FL
+UTM,Tunica Municipal,Tunica,MS
+VCT,Victoria Regional,Victoria,TX
+VEL,Vernal Regional,Vernal,UT
+VIS,Visalia Municipal,Visalia,CA
+VLD,Valdosta Regional,Valdosta,GA
+VPS,Eglin AFB Destin Fort Walton Beach,Valparaiso,FL
+WRG,Wrangell Airport,Wrangell,AK
+WYS,Yellowstone,West Yellowstone,MT
+XNA,Northwest Arkansas Regional,Fayetteville,AR
+YAK,Yakutat Airport,Yakutat,AK
+YUM,Yuma MCAS/Yuma International,Yuma,AZ

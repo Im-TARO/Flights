@@ -1,0 +1,50 @@
+ranking,year,month,airline_code,airline_name,num_canceled
+1,2010,1,WN,Southwest Airlines Co.,75
+2,2010,1,OO,SkyWest Airlines Inc.,72
+3,2010,1,MQ,Envoy Air,50
+4,2010,1,AA,American Airlines Inc.,47
+5,2010,1,DL,Delta Air Lines Inc.,47
+6,2010,1,EV,ExpressJet Airlines Inc.,38
+7,2010,1,9E,Endeavor Air Inc.,31
+8,2010,1,XE,ExpressJet Airlines Inc. (1),30
+9,2010,1,US,US Airways Inc.,27
+10,2010,1,YV,Mesa Airlines Inc.,21
+11,2010,1,OH,Comair Inc.,17
+12,2010,1,UA,United Air Lines Inc.,17
+13,2010,1,FL,AirTran Airways Corporation,12
+14,2010,1,B6,JetBlue Airways,9
+15,2010,1,CO,Continental Air Lines Inc.,9
+16,2010,1,AS,Alaska Airlines Inc.,4
+1,2010,5,AA,American Airlines Inc.,41
+2,2010,5,MQ,Envoy Air,39
+3,2010,5,OO,SkyWest Airlines Inc.,30
+4,2010,5,XE,ExpressJet Airlines Inc. (1),26
+5,2010,5,WN,Southwest Airlines Co.,26
+6,2010,5,DL,Delta Air Lines Inc.,25
+7,2010,5,9E,Endeavor Air Inc.,20
+8,2010,5,EV,ExpressJet Airlines Inc.,14
+9,2010,5,OH,Comair Inc.,12
+10,2010,5,B6,JetBlue Airways,10
+11,2010,5,YV,Mesa Airlines Inc.,7
+12,2010,5,UA,United Air Lines Inc.,6
+13,2010,5,FL,AirTran Airways Corporation,5
+14,2010,5,US,US Airways Inc.,4
+15,2010,5,F9,Frontier Airlines Inc.,1
+16,2010,5,CO,Continental Air Lines Inc.,1
+1,2010,9,OO,SkyWest Airlines Inc.,31
+2,2010,9,DL,Delta Air Lines Inc.,25
+3,2010,9,MQ,Envoy Air,23
+4,2010,9,9E,Endeavor Air Inc.,18
+5,2010,9,XE,ExpressJet Airlines Inc. (1),16
+6,2010,9,AA,American Airlines Inc.,14
+7,2010,9,EV,ExpressJet Airlines Inc.,12
+8,2010,9,WN,Southwest Airlines Co.,12
+9,2010,9,OH,Comair Inc.,10
+10,2010,9,B6,JetBlue Airways,8
+11,2010,9,US,US Airways Inc.,7
+12,2010,9,YV,Mesa Airlines Inc.,6
+13,2010,9,UA,United Air Lines Inc.,4
+14,2010,9,AS,Alaska Airlines Inc.,2
+15,2010,9,CO,Continental Air Lines Inc.,2
+16,2010,9,F9,Frontier Airlines Inc.,2
+17,2010,9,FL,AirTran Airways Corporation,1
