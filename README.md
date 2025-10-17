@@ -15,6 +15,7 @@ This project demonstrates how I used SQL to clean and prepare a raw dataset for 
 * `raw_data/` - Original dataset (uncleaned)
 * `cleaned_data/` - Final cleaned datasets
 * `SQL/` - SQL scripts
+* `images/` - images used in README.md
 * README.md - Documentation of the process (this file)
 
 The goal was to transform messy input data into a reliable dataset ready for reporting and anlysis
@@ -106,17 +107,20 @@ The goal was to transform messy input data into a reliable dataset ready for rep
 
 ### Questions that be asked and answered with this data
 
-Airline Performance (2015) - `SQL/Airline_Performance.sql` `SQL/Airline_Performance_results.csv`
+Airline Performance (2015)
 
 | Airline Performance | SQL Script | Results |
 |------|-----|----|
-| Airlines with the most cancellations | SQL/Airline_Cancelations.sql | SQL/Airline_Cancelations_2015_results.csv|
-| Busiest airline by flight per month |  |  |
-| Average departure delay per airline | | |
+| Airlines with the most cancellations | SQL/Airline_Cancelations.sql | SQL/Airline_Cancelations_results.csv|
+| Busiest airline by flight per month | SQL/Airline_Busiest.sql| SQL/Airline_Busiest_results.csv |
+| Average departure delay per airline | SQL/Airline_AvgDepartureDelay | SQL/Airline_AvgDepatureDelay_results.csv |
+| Average arrival deplay per airline | SQL/Airline_AvgArrivalDelay | SQL/Airline_AvgArrivalDelay_results.csv |
 
 ## Data Visualization
 
-[![Tableau](https://img.shields.io/badge/-Tableau-orange?style=flat-square&logo=tableau)](https://public.tableau.com/app/profile/t.robinson6379/vizzes)
+![Tableau](https://img.shields.io/badge/-Tableau-orange?style=flat-square&logo=tableau)
+
+[My Tableau Profile](https://public.tableau.com/app/profile/t.robinson6379/vizzes)
 
 ![Airline Cancelations](images/Airline_Cancelations.png)
 

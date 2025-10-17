@@ -10,7 +10,7 @@ CREATE TABLE flights.flights (
     airline_code CHAR(2) ,
     tail_num VARCHAR(10),
     flight_num INT,
-    orgin_airport CHAR(3),
+    origin_airport CHAR(3),
     dest_airport CHAR(3),
     sched_deptime TIME,
     dep_time TIME,
@@ -115,7 +115,7 @@ SELECT
     'airline_code',
     'tail_num',
     'flight_num',
-    'orgin_airport',
+    'origin_airport',
     'dest_airport',
     'sched_deptime',
     'dep_time',
@@ -138,7 +138,7 @@ UNION SELECT
     airline_code,
     ifnull(tail_num,''),
     flight_num,
-    orgin_airport,
+    origin_airport,
     dest_airport,
     sched_deptime,
     ifnull(dep_time,''),
@@ -240,7 +240,7 @@ FIELDS TERMINATED BY ',';
 
 ALTER TABLE flights.flights 
 	ADD CONSTRAINT airline_fk FOREIGN KEY (airline_code) REFERENCES airlines (airline_code),
-	ADD CONSTRAINT origin_airport_fk FOREIGN KEY (orgin_airport) REFERENCES airports (airport_code),
+	ADD CONSTRAINT origin_airport_fk FOREIGN KEY (origin_airport) REFERENCES airports (airport_code),
    ADD CONSTRAINT dest_airport_fk FOREIGN KEY (dest_airport) REFERENCES airports (airport_code);
          
 
