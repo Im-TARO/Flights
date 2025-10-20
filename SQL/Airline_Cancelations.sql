@@ -8,6 +8,7 @@ WITH cte_cancelations AS
           SUM(f.cancelled) num_canceled
    FROM flights.flights f JOIN flights.airlines a ON f.airline_code = a.airline_code
    WHERE f.flight_date BETWEEN date_format(@DAY, '%Y-%m-01') AND @DAY
+     AND cancelled = true
    GROUP BY flight_date,
             airline_code
    HAVING num_canceled > 0

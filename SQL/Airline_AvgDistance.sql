@@ -1,13 +1,13 @@
 SET @DAY := '2010-01-15';
 
--- Airlines with the most cancelations YTD
+-- Airlines avg distance YTD
 WITH cte_flight_distance AS
   (SELECT row_number() OVER (PARTITION BY DAY(flight_date) ORDER BY flight_date, avg(f.distance) DESC) AS ranking,
 			 f.flight_date,
           f.airline_code, a.airline_name,
           avg(f.distance) avg_distince
    FROM flights.flights f JOIN flights.airlines a ON f.airline_code = a.airline_code
-   WHERE f.flight_date BETWEEN date_format(@DAY, '%Y-%m-01') AND @DAY
+   WHERE f.flight_date BETWEEN date_format(@DAY, '%Y-%m-01') AND @DAY AND cancelled = false
    GROUP BY flight_date,
             airline_code
    ORDER BY flight_date,

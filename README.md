@@ -1,6 +1,6 @@
 # ✈️ Flight Dataset
 
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoSize=auto)
 [![Tableau](https://img.shields.io/badge/-Tableau-orange?style=flat-square&logo=tableau)](https://public.tableau.com/app/profile/t.robinson6379/vizzes)
 
 ## Project Overview
@@ -10,7 +10,7 @@ This project demonstrates how I used SQL to clean and prepare a raw dataset for 
 * MySQL 9.4.0
 * Datasets used - Kaggle, [Flights](https://www.kaggle.com/datasets/mmetter/flights/data)
 
-## Repository Content
+## :file_folder: Repository Content
 
 * `raw_data/` - Original dataset (uncleaned)
 * `cleaned_data/` - Final cleaned datasets
@@ -122,6 +122,4 @@ Airline Performance (2015)
 
 [My Tableau Profile](https://public.tableau.com/app/profile/t.robinson6379/vizzes)
 
-![Airline Cancelations](images/Airline_Cancelations.png)
-
-![Airline Busiest](images/Airline_Busiest.png)
+![Airline Dashboard](images/Flights_Dashboard.png)

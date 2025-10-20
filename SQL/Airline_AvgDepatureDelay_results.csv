@@ -1,25 +1,25 @@
 ranking,Flight_date,airline_code,airline_name,avg_dep_delay
 1,2010-01-01,CO,Continental Air Lines Inc.,37.3214
 2,2010-01-01,B6,JetBlue Airways,18.2917
-3,2010-01-01,OO,SkyWest Airlines Inc.,16.5455
+3,2010-01-01,OO,SkyWest Airlines Inc.,16.8519
 4,2010-01-01,MQ,Envoy Air,13.6122
 5,2010-01-01,F9,Frontier Airlines Inc.,11.6250
 6,2010-01-01,9E,Endeavor Air Inc.,10.6071
 7,2010-01-01,AA,American Airlines Inc.,7.8644
-8,2010-01-01,FL,AirTran Airways Corporation,7.1154
+8,2010-01-01,FL,AirTran Airways Corporation,7.4000
 9,2010-01-01,AS,Alaska Airlines Inc.,6.6154
-10,2010-01-01,WN,Southwest Airlines Co.,5.6484
-11,2010-01-01,OH,Comair Inc.,5.4545
+10,2010-01-01,OH,Comair Inc.,6.0000
+11,2010-01-01,WN,Southwest Airlines Co.,5.6484
 12,2010-01-01,XE,ExpressJet Airlines Inc. (1),4.9032
 13,2010-01-01,DL,Delta Air Lines Inc.,3.6610
-14,2010-01-01,YV,Mesa Airlines Inc.,3.2500
+14,2010-01-01,YV,Mesa Airlines Inc.,3.4211
 15,2010-01-01,UA,United Air Lines Inc.,1.5667
-16,2010-01-01,US,US Airways Inc.,-0.2143
+16,2010-01-01,US,US Airways Inc.,-0.2432
 17,2010-01-01,EV,ExpressJet Airlines Inc.,-1.0769
 18,2010-01-01,HA,Hawaiian Airlines Inc.,-1.6000
 1,2010-01-02,B6,JetBlue Airways,55.2500
 2,2010-01-02,XE,ExpressJet Airlines Inc. (1),24.3529
-3,2010-01-02,WN,Southwest Airlines Co.,24.1071
+3,2010-01-02,WN,Southwest Airlines Co.,23.7117
 4,2010-01-02,YV,Mesa Airlines Inc.,19.7778
 5,2010-01-02,OO,SkyWest Airlines Inc.,18.5172
 6,2010-01-02,CO,Continental Air Lines Inc.,13.7692
@@ -30,76 +30,76 @@ ranking,Flight_date,airline_code,airline_name,avg_dep_delay
 11,2010-01-02,F9,Frontier Airlines Inc.,8.5714
 12,2010-01-02,MQ,Envoy Air,7.4545
 13,2010-01-02,UA,United Air Lines Inc.,6.2564
-14,2010-01-02,OH,Comair Inc.,3.6000
-15,2010-01-02,9E,Endeavor Air Inc.,2.4000
+14,2010-01-02,OH,Comair Inc.,4.9091
+15,2010-01-02,9E,Endeavor Air Inc.,2.4828
 16,2010-01-02,EV,ExpressJet Airlines Inc.,2.1154
 17,2010-01-02,AS,Alaska Airlines Inc.,-1.8462
 18,2010-01-02,HA,Hawaiian Airlines Inc.,-2.5000
 1,2010-01-03,B6,JetBlue Airways,79.6800
 2,2010-01-03,CO,Continental Air Lines Inc.,60.1000
-3,2010-01-03,OH,Comair Inc.,45.1250
+3,2010-01-03,OH,Comair Inc.,51.5714
 4,2010-01-03,YV,Mesa Airlines Inc.,33.6667
 5,2010-01-03,FL,AirTran Airways Corporation,29.7143
 6,2010-01-03,XE,ExpressJet Airlines Inc. (1),28.2500
-7,2010-01-03,AA,American Airlines Inc.,25.2963
+7,2010-01-03,AA,American Airlines Inc.,26.2692
 8,2010-01-03,EV,ExpressJet Airlines Inc.,21.2222
-9,2010-01-03,MQ,Envoy Air,18.2041
-10,2010-01-03,DL,Delta Air Lines Inc.,17.9655
+9,2010-01-03,DL,Delta Air Lines Inc.,18.6071
+10,2010-01-03,MQ,Envoy Air,18.5833
 11,2010-01-03,WN,Southwest Airlines Co.,17.4444
-12,2010-01-03,UA,United Air Lines Inc.,11.9333
-13,2010-01-03,US,US Airways Inc.,11.3953
+12,2010-01-03,US,US Airways Inc.,13.2432
+13,2010-01-03,UA,United Air Lines Inc.,11.9333
 14,2010-01-03,F9,Frontier Airlines Inc.,10.6250
-15,2010-01-03,9E,Endeavor Air Inc.,8.0857
+15,2010-01-03,9E,Endeavor Air Inc.,8.3235
 16,2010-01-03,OO,SkyWest Airlines Inc.,7.7595
 17,2010-01-03,HA,Hawaiian Airlines Inc.,2.7778
-18,2010-01-03,AS,Alaska Airlines Inc.,-0.7857
+18,2010-01-03,AS,Alaska Airlines Inc.,-1.9231
 1,2010-01-04,CO,Continental Air Lines Inc.,27.1000
-2,2010-01-04,OO,SkyWest Airlines Inc.,25.6034
+2,2010-01-04,OO,SkyWest Airlines Inc.,26.0526
 3,2010-01-04,FL,AirTran Airways Corporation,19.5714
-4,2010-01-04,MQ,Envoy Air,19.0435
-5,2010-01-04,XE,ExpressJet Airlines Inc. (1),17.5366
-6,2010-01-04,WN,Southwest Airlines Co.,17.4567
-7,2010-01-04,B6,JetBlue Airways,16.7500
+4,2010-01-04,MQ,Envoy Air,19.4667
+5,2010-01-04,WN,Southwest Airlines Co.,17.5952
+6,2010-01-04,XE,ExpressJet Airlines Inc. (1),17.5366
+7,2010-01-04,B6,JetBlue Airways,17.4783
 8,2010-01-04,YV,Mesa Airlines Inc.,12.9375
 9,2010-01-04,DL,Delta Air Lines Inc.,11.8356
 10,2010-01-04,OH,Comair Inc.,9.6471
-11,2010-01-04,US,US Airways Inc.,8.8936
+11,2010-01-04,US,US Airways Inc.,9.0870
 12,2010-01-04,AA,American Airlines Inc.,8.4262
-13,2010-01-04,UA,United Air Lines Inc.,7.8158
+13,2010-01-04,UA,United Air Lines Inc.,8.0270
 14,2010-01-04,EV,ExpressJet Airlines Inc.,5.1212
-15,2010-01-04,9E,Endeavor Air Inc.,4.6471
+15,2010-01-04,9E,Endeavor Air Inc.,4.9375
 16,2010-01-04,F9,Frontier Airlines Inc.,4.3333
 17,2010-01-04,AS,Alaska Airlines Inc.,3.9333
 18,2010-01-04,HA,Hawaiian Airlines Inc.,0.4000
 1,2010-01-05,YV,Mesa Airlines Inc.,23.1481
-2,2010-01-05,WN,Southwest Airlines Co.,16.4841
-3,2010-01-05,MQ,Envoy Air,15.3571
+2,2010-01-05,WN,Southwest Airlines Co.,17.0246
+3,2010-01-05,MQ,Envoy Air,15.6364
 4,2010-01-05,XE,ExpressJet Airlines Inc. (1),13.7059
-5,2010-01-05,AA,American Airlines Inc.,12.9661
+5,2010-01-05,AA,American Airlines Inc.,13.4211
 6,2010-01-05,EV,ExpressJet Airlines Inc.,12.4138
 7,2010-01-05,CO,Continental Air Lines Inc.,12.3600
-8,2010-01-05,9E,Endeavor Air Inc.,8.6071
+8,2010-01-05,9E,Endeavor Air Inc.,8.9259
 9,2010-01-05,HA,Hawaiian Airlines Inc.,5.2857
 10,2010-01-05,F9,Frontier Airlines Inc.,5.1111
 11,2010-01-05,US,US Airways Inc.,4.8605
 12,2010-01-05,OO,SkyWest Airlines Inc.,4.8400
-13,2010-01-05,UA,United Air Lines Inc.,4.6667
+13,2010-01-05,UA,United Air Lines Inc.,4.8276
 14,2010-01-05,DL,Delta Air Lines Inc.,4.5733
 15,2010-01-05,OH,Comair Inc.,3.5714
 16,2010-01-05,B6,JetBlue Airways,1.7895
 17,2010-01-05,FL,AirTran Airways Corporation,1.4800
 18,2010-01-05,AS,Alaska Airlines Inc.,-3.1429
 1,2010-01-06,OH,Comair Inc.,19.9333
-2,2010-01-06,WN,Southwest Airlines Co.,10.6299
-3,2010-01-06,9E,Endeavor Air Inc.,8.5405
-4,2010-01-06,OO,SkyWest Airlines Inc.,8.0290
+2,2010-01-06,WN,Southwest Airlines Co.,10.8871
+3,2010-01-06,9E,Endeavor Air Inc.,8.7778
+4,2010-01-06,OO,SkyWest Airlines Inc.,8.3939
 5,2010-01-06,CO,Continental Air Lines Inc.,6.6800
 6,2010-01-06,UA,United Air Lines Inc.,6.6774
-7,2010-01-06,AA,American Airlines Inc.,5.5577
-8,2010-01-06,AS,Alaska Airlines Inc.,5.2857
+7,2010-01-06,AS,Alaska Airlines Inc.,5.6923
+8,2010-01-06,AA,American Airlines Inc.,5.5577
 9,2010-01-06,F9,Frontier Airlines Inc.,5.1250
-10,2010-01-06,EV,ExpressJet Airlines Inc.,4.4750
-11,2010-01-06,MQ,Envoy Air,4.4231
+10,2010-01-06,EV,ExpressJet Airlines Inc.,4.5897
+11,2010-01-06,MQ,Envoy Air,4.5098
 12,2010-01-06,XE,ExpressJet Airlines Inc. (1),4.2000
 13,2010-01-06,US,US Airways Inc.,3.7872
 14,2010-01-06,DL,Delta Air Lines Inc.,2.2468
@@ -107,44 +107,44 @@ ranking,Flight_date,airline_code,airline_name,avg_dep_delay
 16,2010-01-06,HA,Hawaiian Airlines Inc.,-1.0000
 17,2010-01-06,FL,AirTran Airways Corporation,-1.5000
 18,2010-01-06,YV,Mesa Airlines Inc.,-1.8125
-1,2010-01-07,MQ,Envoy Air,32.3043
-2,2010-01-07,9E,Endeavor Air Inc.,23.7586
-3,2010-01-07,AA,American Airlines Inc.,19.0938
-4,2010-01-07,DL,Delta Air Lines Inc.,14.9178
-5,2010-01-07,WN,Southwest Airlines Co.,13.5591
-6,2010-01-07,OH,Comair Inc.,12.2500
-7,2010-01-07,OO,SkyWest Airlines Inc.,11.5882
+1,2010-01-07,MQ,Envoy Air,35.3810
+2,2010-01-07,9E,Endeavor Air Inc.,26.5000
+3,2010-01-07,AA,American Airlines Inc.,19.7097
+4,2010-01-07,DL,Delta Air Lines Inc.,17.2857
+5,2010-01-07,WN,Southwest Airlines Co.,14.3500
+6,2010-01-07,OH,Comair Inc.,14.0000
+7,2010-01-07,OO,SkyWest Airlines Inc.,11.1250
 8,2010-01-07,F9,Frontier Airlines Inc.,6.8889
 9,2010-01-07,CO,Continental Air Lines Inc.,5.2222
-10,2010-01-07,AS,Alaska Airlines Inc.,4.3571
-11,2010-01-07,XE,ExpressJet Airlines Inc. (1),4.3250
-12,2010-01-07,YV,Mesa Airlines Inc.,3.4231
+10,2010-01-07,XE,ExpressJet Airlines Inc. (1),4.9429
+11,2010-01-07,AS,Alaska Airlines Inc.,4.3571
+12,2010-01-07,YV,Mesa Airlines Inc.,3.5600
 13,2010-01-07,HA,Hawaiian Airlines Inc.,3.0000
-14,2010-01-07,FL,AirTran Airways Corporation,2.6923
+14,2010-01-07,FL,AirTran Airways Corporation,2.9167
 15,2010-01-07,US,US Airways Inc.,2.0217
-16,2010-01-07,UA,United Air Lines Inc.,0.2258
-17,2010-01-07,EV,ExpressJet Airlines Inc.,-0.1250
+16,2010-01-07,UA,United Air Lines Inc.,0.2593
+17,2010-01-07,EV,ExpressJet Airlines Inc.,-0.1600
 18,2010-01-07,B6,JetBlue Airways,-0.8095
-1,2010-01-08,EV,ExpressJet Airlines Inc.,50.0857
+1,2010-01-08,EV,ExpressJet Airlines Inc.,53.1212
 2,2010-01-08,9E,Endeavor Air Inc.,37.8182
 3,2010-01-08,F9,Frontier Airlines Inc.,19.7778
-4,2010-01-08,OO,SkyWest Airlines Inc.,15.8033
-5,2010-01-08,DL,Delta Air Lines Inc.,15.7375
+4,2010-01-08,DL,Delta Air Lines Inc.,16.7867
+5,2010-01-08,OO,SkyWest Airlines Inc.,16.0667
 6,2010-01-08,OH,Comair Inc.,15.3333
-7,2010-01-08,MQ,Envoy Air,12.8958
-8,2010-01-08,XE,ExpressJet Airlines Inc. (1),12.8718
-9,2010-01-08,FL,AirTran Airways Corporation,12.7037
-10,2010-01-08,AA,American Airlines Inc.,12.6308
+7,2010-01-08,XE,ExpressJet Airlines Inc. (1),14.3429
+8,2010-01-08,MQ,Envoy Air,13.4565
+9,2010-01-08,AA,American Airlines Inc.,13.2419
+10,2010-01-08,FL,AirTran Airways Corporation,13.1923
 11,2010-01-08,B6,JetBlue Airways,12.0909
 12,2010-01-08,CO,Continental Air Lines Inc.,10.7857
-13,2010-01-08,WN,Southwest Airlines Co.,9.1969
-14,2010-01-08,YV,Mesa Airlines Inc.,9.1500
+13,2010-01-08,YV,Mesa Airlines Inc.,9.6316
+14,2010-01-08,WN,Southwest Airlines Co.,9.4194
 15,2010-01-08,AS,Alaska Airlines Inc.,3.7143
 16,2010-01-08,HA,Hawaiian Airlines Inc.,1.8333
 17,2010-01-08,US,US Airways Inc.,0.5106
-18,2010-01-08,UA,United Air Lines Inc.,-1.2955
+18,2010-01-08,UA,United Air Lines Inc.,-1.3571
 1,2010-01-09,YV,Mesa Airlines Inc.,29.6296
-2,2010-01-09,AA,American Airlines Inc.,29.0000
+2,2010-01-09,AA,American Airlines Inc.,29.5577
 3,2010-01-09,F9,Frontier Airlines Inc.,11.8571
 4,2010-01-09,CO,Continental Air Lines Inc.,8.8571
 5,2010-01-09,WN,Southwest Airlines Co.,8.1146
@@ -153,114 +153,114 @@ ranking,Flight_date,airline_code,airline_name,avg_dep_delay
 8,2010-01-09,9E,Endeavor Air Inc.,4.1250
 9,2010-01-09,DL,Delta Air Lines Inc.,2.7424
 10,2010-01-09,XE,ExpressJet Airlines Inc. (1),2.1250
-11,2010-01-09,EV,ExpressJet Airlines Inc.,1.2069
+11,2010-01-09,EV,ExpressJet Airlines Inc.,1.2963
 12,2010-01-09,HA,Hawaiian Airlines Inc.,0.6364
 13,2010-01-09,B6,JetBlue Airways,0.5263
 14,2010-01-09,FL,AirTran Airways Corporation,-0.2400
 15,2010-01-09,MQ,Envoy Air,-0.6098
-16,2010-01-09,UA,United Air Lines Inc.,-0.8462
-17,2010-01-09,OO,SkyWest Airlines Inc.,-2.0200
+16,2010-01-09,UA,United Air Lines Inc.,-0.8684
+17,2010-01-09,OO,SkyWest Airlines Inc.,-2.1489
 18,2010-01-09,OH,Comair Inc.,-2.9000
-1,2010-01-10,XE,ExpressJet Airlines Inc. (1),36.9706
-2,2010-01-10,MQ,Envoy Air,27.6667
-3,2010-01-10,B6,JetBlue Airways,22.0909
+1,2010-01-10,XE,ExpressJet Airlines Inc. (1),39.2813
+2,2010-01-10,MQ,Envoy Air,28.3947
+3,2010-01-10,B6,JetBlue Airways,23.1429
 4,2010-01-10,AA,American Airlines Inc.,13.0820
-5,2010-01-10,OO,SkyWest Airlines Inc.,12.0492
+5,2010-01-10,OO,SkyWest Airlines Inc.,12.2500
 6,2010-01-10,EV,ExpressJet Airlines Inc.,10.4688
-7,2010-01-10,WN,Southwest Airlines Co.,5.8318
-8,2010-01-10,CO,Continental Air Lines Inc.,4.8333
+7,2010-01-10,WN,Southwest Airlines Co.,5.8868
+8,2010-01-10,CO,Continental Air Lines Inc.,5.8000
 9,2010-01-10,FL,AirTran Airways Corporation,4.7037
 10,2010-01-10,HA,Hawaiian Airlines Inc.,2.5000
-11,2010-01-10,DL,Delta Air Lines Inc.,1.3857
+11,2010-01-10,DL,Delta Air Lines Inc.,1.4058
 12,2010-01-10,F9,Frontier Airlines Inc.,0.1250
 13,2010-01-10,US,US Airways Inc.,-0.5116
 14,2010-01-10,OH,Comair Inc.,-0.8571
-15,2010-01-10,UA,United Air Lines Inc.,-0.9118
+15,2010-01-10,UA,United Air Lines Inc.,-0.9394
 16,2010-01-10,AS,Alaska Airlines Inc.,-1.9286
 17,2010-01-10,YV,Mesa Airlines Inc.,-3.0400
 18,2010-01-10,9E,Endeavor Air Inc.,-3.7143
-1,2010-01-11,EV,ExpressJet Airlines Inc.,10.8605
+1,2010-01-11,EV,ExpressJet Airlines Inc.,11.2857
 2,2010-01-11,B6,JetBlue Airways,9.6190
 3,2010-01-11,UA,United Air Lines Inc.,9.1212
 4,2010-01-11,MQ,Envoy Air,7.9464
-5,2010-01-11,WN,Southwest Airlines Co.,5.4000
+5,2010-01-11,WN,Southwest Airlines Co.,5.4435
 6,2010-01-11,DL,Delta Air Lines Inc.,4.9189
-7,2010-01-11,AA,American Airlines Inc.,3.7857
+7,2010-01-11,AA,American Airlines Inc.,3.8545
 8,2010-01-11,9E,Endeavor Air Inc.,3.5200
 9,2010-01-11,CO,Continental Air Lines Inc.,3.3333
 10,2010-01-11,OH,Comair Inc.,3.3125
 11,2010-01-11,XE,ExpressJet Airlines Inc. (1),2.0769
-12,2010-01-11,OO,SkyWest Airlines Inc.,0.9841
+12,2010-01-11,OO,SkyWest Airlines Inc.,1.0000
 13,2010-01-11,FL,AirTran Airways Corporation,-0.1923
 14,2010-01-11,US,US Airways Inc.,-0.2273
 15,2010-01-11,YV,Mesa Airlines Inc.,-1.0000
 16,2010-01-11,HA,Hawaiian Airlines Inc.,-2.0000
 17,2010-01-11,F9,Frontier Airlines Inc.,-2.3333
 18,2010-01-11,AS,Alaska Airlines Inc.,-2.5000
-1,2010-01-12,MQ,Envoy Air,5.2889
-2,2010-01-12,WN,Southwest Airlines Co.,5.2000
+1,2010-01-12,MQ,Envoy Air,5.4091
+2,2010-01-12,WN,Southwest Airlines Co.,5.2419
 3,2010-01-12,B6,JetBlue Airways,4.9500
-4,2010-01-12,OO,SkyWest Airlines Inc.,4.5645
+4,2010-01-12,OO,SkyWest Airlines Inc.,4.7966
 5,2010-01-12,9E,Endeavor Air Inc.,3.6800
 6,2010-01-12,OH,Comair Inc.,2.6667
 7,2010-01-12,XE,ExpressJet Airlines Inc. (1),2.5000
 8,2010-01-12,DL,Delta Air Lines Inc.,2.2647
-9,2010-01-12,AA,American Airlines Inc.,0.5400
+9,2010-01-12,AA,American Airlines Inc.,0.5625
 10,2010-01-12,US,US Airways Inc.,0.4419
-11,2010-01-12,CO,Continental Air Lines Inc.,-0.0417
+11,2010-01-12,CO,Continental Air Lines Inc.,-0.0435
 12,2010-01-12,UA,United Air Lines Inc.,-0.6667
 13,2010-01-12,EV,ExpressJet Airlines Inc.,-0.8462
 14,2010-01-12,YV,Mesa Airlines Inc.,-0.8667
-15,2010-01-12,FL,AirTran Airways Corporation,-2.0870
+15,2010-01-12,FL,AirTran Airways Corporation,-2.1818
 16,2010-01-12,AS,Alaska Airlines Inc.,-4.9231
 17,2010-01-12,HA,Hawaiian Airlines Inc.,-5.8333
 18,2010-01-12,F9,Frontier Airlines Inc.,-7.8750
 1,2010-01-13,UA,United Air Lines Inc.,9.0000
-2,2010-01-13,WN,Southwest Airlines Co.,2.9600
+2,2010-01-13,WN,Southwest Airlines Co.,2.9839
 3,2010-01-13,EV,ExpressJet Airlines Inc.,2.8485
 4,2010-01-13,XE,ExpressJet Airlines Inc. (1),2.2857
 5,2010-01-13,9E,Endeavor Air Inc.,2.2500
-6,2010-01-13,DL,Delta Air Lines Inc.,1.0571
-7,2010-01-13,B6,JetBlue Airways,0.9500
+6,2010-01-13,DL,Delta Air Lines Inc.,1.0725
+7,2010-01-13,B6,JetBlue Airways,1.0000
 8,2010-01-13,CO,Continental Air Lines Inc.,0.7600
 9,2010-01-13,FL,AirTran Airways Corporation,0.3333
-10,2010-01-13,AA,American Airlines Inc.,-0.1270
+10,2010-01-13,AA,American Airlines Inc.,-0.1311
 11,2010-01-13,OH,Comair Inc.,-0.6429
-12,2010-01-13,OO,SkyWest Airlines Inc.,-1.1607
+12,2010-01-13,OO,SkyWest Airlines Inc.,-1.2264
 13,2010-01-13,MQ,Envoy Air,-1.2353
 14,2010-01-13,HA,Hawaiian Airlines Inc.,-1.5000
-15,2010-01-13,US,US Airways Inc.,-2.3478
+15,2010-01-13,US,US Airways Inc.,-2.4000
 16,2010-01-13,AS,Alaska Airlines Inc.,-4.8571
 17,2010-01-13,F9,Frontier Airlines Inc.,-5.8889
 18,2010-01-13,YV,Mesa Airlines Inc.,-6.2000
 1,2010-01-14,AS,Alaska Airlines Inc.,6.9286
 2,2010-01-14,UA,United Air Lines Inc.,6.0811
 3,2010-01-14,OH,Comair Inc.,3.8750
-4,2010-01-14,WN,Southwest Airlines Co.,3.8065
+4,2010-01-14,WN,Southwest Airlines Co.,3.8689
 5,2010-01-14,CO,Continental Air Lines Inc.,3.6296
-6,2010-01-14,DL,Delta Air Lines Inc.,1.7013
-7,2010-01-14,AA,American Airlines Inc.,1.6883
+6,2010-01-14,AA,American Airlines Inc.,1.7105
+7,2010-01-14,DL,Delta Air Lines Inc.,1.7013
 8,2010-01-14,B6,JetBlue Airways,1.4286
 9,2010-01-14,MQ,Envoy Air,1.0909
 10,2010-01-14,FL,AirTran Airways Corporation,1.0000
-11,2010-01-14,OO,SkyWest Airlines Inc.,0.9538
+11,2010-01-14,OO,SkyWest Airlines Inc.,0.9688
 12,2010-01-14,YV,Mesa Airlines Inc.,-0.4815
-13,2010-01-14,US,US Airways Inc.,-1.1064
+13,2010-01-14,US,US Airways Inc.,-0.9783
 14,2010-01-14,EV,ExpressJet Airlines Inc.,-1.6944
 15,2010-01-14,F9,Frontier Airlines Inc.,-3.0000
 16,2010-01-14,XE,ExpressJet Airlines Inc. (1),-3.0250
 17,2010-01-14,HA,Hawaiian Airlines Inc.,-3.3333
-18,2010-01-14,9E,Endeavor Air Inc.,-4.7692
+18,2010-01-14,9E,Endeavor Air Inc.,-4.9600
 1,2010-01-15,OO,SkyWest Airlines Inc.,7.9844
 2,2010-01-15,XE,ExpressJet Airlines Inc. (1),7.9000
-3,2010-01-15,WN,Southwest Airlines Co.,4.7760
-4,2010-01-15,MQ,Envoy Air,4.3800
+3,2010-01-15,WN,Southwest Airlines Co.,4.8145
+4,2010-01-15,MQ,Envoy Air,4.5625
 5,2010-01-15,UA,United Air Lines Inc.,4.2250
 6,2010-01-15,DL,Delta Air Lines Inc.,3.6341
 7,2010-01-15,9E,Endeavor Air Inc.,3.0000
 8,2010-01-15,AS,Alaska Airlines Inc.,2.2143
-9,2010-01-15,AA,American Airlines Inc.,1.3390
-10,2010-01-15,YV,Mesa Airlines Inc.,1.3077
+9,2010-01-15,AA,American Airlines Inc.,1.3621
+10,2010-01-15,YV,Mesa Airlines Inc.,1.3600
 11,2010-01-15,CO,Continental Air Lines Inc.,0.7407
 12,2010-01-15,US,US Airways Inc.,0.1702
 13,2010-01-15,F9,Frontier Airlines Inc.,-1.2222

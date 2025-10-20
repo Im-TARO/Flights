@@ -10,6 +10,7 @@ WITH cte_busiest AS
     FROM flights.flights f
     JOIN flights.airlines a ON f.airline_code = a.airline_code
     WHERE f.flight_date BETWEEN date_format(@DAY, '%Y-%m-01') AND @DAY
+		AND f.cancelled = false
     GROUP BY flight_date,
              airline_code
     ORDER BY flight_date,
