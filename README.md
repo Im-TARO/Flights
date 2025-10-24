@@ -2,6 +2,7 @@
 
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoSize=auto)
 [![Tableau](https://img.shields.io/badge/-Tableau-orange?style=flat-square&logo=tableau)](https://public.tableau.com/app/profile/t.robinson6379/vizzes)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 ## Project Overview
 
@@ -119,7 +120,10 @@ Airline Performance (2015)
 ## Data Visualization
 
 ![Tableau](https://img.shields.io/badge/-Tableau-orange?style=flat-square&logo=tableau)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 [My Tableau Profile](https://public.tableau.com/app/profile/t.robinson6379/vizzes)
 
 ![Airline Dashboard](images/Flights_Dashboard.png)
+
+![cancel](images/Airline_Cancelations.png)
