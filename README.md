@@ -27,7 +27,7 @@ The goal was to transform messy input data into a reliable dataset ready for rep
 
  1. Create a new database
  2. Create a raw tables
- 3. Load the Flighs raw data
+ 3. Load the Flights raw data
     * IGNORE 1 ROWS 1191805 row(s) affected Records: 1191805  Deleted: 0  Skipped: 0  Warnings: 0 14.140 sec
 
 ## Clean & Load Steps  
